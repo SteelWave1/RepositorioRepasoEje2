@@ -1,2 +1,0 @@
-Primer documento
-Esta es una nueva linea para docu1.txt
